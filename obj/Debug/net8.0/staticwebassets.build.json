@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tXIz2YoU4diqiTA6cNJvvRT5hLPEfzuvzuxqF/2weNE=",
+  "Hash": "24r37dnlwmDwzvCOdJe76z3mfSZOhy0BvhohtGpKJYE=",
   "Source": "EventEaseApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\zamil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.12\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.13\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\zamil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.12\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.13\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.12.pprqoiurbq.js",
+      "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.13.alq4dk68k2.js",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.12.pprqoiurbq.js",
+      "RelativePath": "_framework/dotnet.native.8.0.13.alq4dk68k2.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\zamil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.12\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.13\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\zamil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.12\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.13\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.12.9osjw3wcoh.js",
+      "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.13.antszkelre.js",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.12.9osjw3wcoh.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.13.antszkelre.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\zamil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.12\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.13\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\zamil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.12\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.13\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\EventEaseApp.pdb",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\zamil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.12\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.13\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\zamil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.12\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.13\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\zamil\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.12\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.13\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4216,6 +4216,25 @@
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.wasm"
     },
     {
+      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\37bv39g36b.gz",
+      "SourceId": "EventEaseApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\3i8shdxsps.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
@@ -4311,25 +4330,6 @@
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.ReaderWriter.wasm"
     },
     {
-      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\4fm2zie0cs.gz",
-      "SourceId": "EventEaseApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\4jer7s36n2.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
@@ -4385,6 +4385,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ServiceModel.Web.wasm"
+    },
+    {
+      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\4savhfdxvr.gz",
+      "SourceId": "EventEaseApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\4tltitax3b.gz",
@@ -4729,25 +4748,6 @@
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\mscorlib.wasm"
     },
     {
-      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\80u0gxc6eb.gz",
-      "SourceId": "EventEaseApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\879gzvo3fr.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
@@ -4976,25 +4976,6 @@
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.wasm"
     },
     {
-      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\9osjw3wcoh.gz",
-      "SourceId": "EventEaseApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.12.9osjw3wcoh.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.12.9osjw3wcoh.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.12.9osjw3wcoh.js"
-    },
-    {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\9t61cd6v9y.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
@@ -5012,6 +4993,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.wasm"
+    },
+    {
+      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\a2wls1to9d.gz",
+      "SourceId": "EventEaseApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\a5yja7f4r1.gz",
@@ -5069,6 +5069,44 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebProxy.wasm"
+    },
+    {
+      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\alq4dk68k2.gz",
+      "SourceId": "EventEaseApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.13.alq4dk68k2.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.13.alq4dk68k2.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.13.alq4dk68k2.js"
+    },
+    {
+      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\antszkelre.gz",
+      "SourceId": "EventEaseApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.13.antszkelre.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.13.antszkelre.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.13.antszkelre.js"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\axjesg2261.gz",
@@ -6002,6 +6040,25 @@
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.wasm"
     },
     {
+      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\imrzcv7zuj.gz",
+      "SourceId": "EventEaseApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\iuo7mp4peg.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
@@ -6116,7 +6173,7 @@
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.wasm"
     },
     {
-      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\kderzlcg53.gz",
+      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\jocg7df82r.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
@@ -6152,6 +6209,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Principal.wasm"
+    },
+    {
+      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\knrcyd8dkx.gz",
+      "SourceId": "EventEaseApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\krevs4w6m4.gz",
@@ -6209,25 +6285,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.OpenSsl.wasm"
-    },
-    {
-      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\lequlv904g.gz",
-      "SourceId": "EventEaseApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\lyy39qfkz5.gz",
@@ -6323,25 +6380,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Channels.wasm"
-    },
-    {
-      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\mzfjm6pl1z.gz",
-      "SourceId": "EventEaseApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\n7ng8mzxml.gz",
@@ -6800,23 +6838,23 @@
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Resources.ResourceManager.wasm"
     },
     {
-      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\pprqoiurbq.gz",
+      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\ppg32pmk8q.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.12.pprqoiurbq.js.gz",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.12.pprqoiurbq.js",
+      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.12.pprqoiurbq.js"
+      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\q9par6rbd4.gz",
@@ -7539,44 +7577,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ValueTuple.wasm"
-    },
-    {
-      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\wz14ag48qq.gz",
-      "SourceId": "EventEaseApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
-      "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\x2puvv2pwo.gz",
-      "SourceId": "EventEaseApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Websites\\EventEaseApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\Websites\\EventEaseApp\\obj\\Debug\\net8.0\\compressed\\x5y074mc5w.gz",

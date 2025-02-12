@@ -1,0 +1,6 @@
+D:\Websites\EventEaseApp\obj\Debug\net7.0\EventEaseApp.csproj.AssemblyReference.cache
+D:\Websites\EventEaseApp\obj\Debug\net7.0\EventEaseApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Websites\EventEaseApp\obj\Debug\net7.0\EventEaseApp.AssemblyInfoInputs.cache
+D:\Websites\EventEaseApp\obj\Debug\net7.0\EventEaseApp.AssemblyInfo.cs
+D:\Websites\EventEaseApp\obj\Debug\net7.0\EventEaseApp.csproj.CoreCompileInputs.cache
+D:\Websites\EventEaseApp\obj\Debug\net7.0\EventEaseApp.MvcApplicationPartsAssemblyInfo.cache

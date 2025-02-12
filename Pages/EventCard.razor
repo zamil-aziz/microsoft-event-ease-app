@@ -1,0 +1,26 @@
+<div class="event-card">
+    <h3 class="event-title">@EventName</h3>
+    <p class="event-date">📅 @EventDate.ToShortDateString()</p>
+    <p class="event-location">📍 @EventLocation</p>
+    <div class="event-actions">
+        <NavLink class="btn btn-details" href="@DetailsRoute">Details</NavLink>
+        <NavLink class="btn btn-register" href="@RegisterRoute">Register</NavLink>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string? EventName { get; set; }
+
+    [Parameter]
+    public DateTime EventDate { get; set; }
+
+    [Parameter]
+    public string? EventLocation { get; set; }
+
+    [Parameter]
+    public string? DetailsRoute { get; set; }
+
+    [Parameter]
+    public string? RegisterRoute { get; set; }
+}

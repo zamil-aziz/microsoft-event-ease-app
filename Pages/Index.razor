@@ -1,0 +1,28 @@
+@page "/"
+
+@using System.Collections.Generic
+
+<h1>Upcoming Events</h1>
+
+@foreach (var ev in Events)
+{
+    <EventCard EventName="@ev.Name" EventDate="@ev.Date" EventLocation="@ev.Location"
+        DetailsRoute="@($"/event-details/{ev.Id}")" RegisterRoute="@($"/event-registration/{ev.Id}")" />
+}
+
+@code {
+    private List<Event> Events = new List<Event>
+{
+new Event { Id = 1, Name = "Tech Conference 2024", Date = new DateTime(2024, 10, 15), Location = "San Francisco, CA" },
+new Event { Id = 2, Name = "Music Festival 2024", Date = new DateTime(2024, 07, 20), Location = "Austin, TX" },
+new Event { Id = 3, Name = "Developer Meetup", Date = new DateTime(2024, 05, 10), Location = "New York, NY" }
+};
+
+    public class Event
+    {
+        public int Id { get; set; }
+        public string? Name { get; set; }
+        public DateTime Date { get; set; }
+        public string? Location { get; set; }
+    }
+}

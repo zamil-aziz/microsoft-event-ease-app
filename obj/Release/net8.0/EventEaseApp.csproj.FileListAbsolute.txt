@@ -1,0 +1,10 @@
+D:\Websites\EventEaseApp\obj\Release\net8.0\EventEaseApp.csproj.AssemblyReference.cache
+D:\Websites\EventEaseApp\obj\Release\net8.0\EventEaseApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Websites\EventEaseApp\obj\Release\net8.0\EventEaseApp.AssemblyInfoInputs.cache
+D:\Websites\EventEaseApp\obj\Release\net8.0\EventEaseApp.AssemblyInfo.cs
+D:\Websites\EventEaseApp\obj\Release\net8.0\EventEaseApp.csproj.CoreCompileInputs.cache
+D:\Websites\EventEaseApp\obj\Release\net8.0\EventEaseApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Websites\EventEaseApp\obj\Release\net8.0\EventEaseApp.sourcelink.json
+D:\Websites\EventEaseApp\obj\Release\net8.0\EventEaseApp.dll
+D:\Websites\EventEaseApp\obj\Release\net8.0\refint\EventEaseApp.dll
+D:\Websites\EventEaseApp\obj\Release\net8.0\EventEaseApp.pdb

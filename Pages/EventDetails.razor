@@ -1,11 +1,21 @@
 @page "/event-details/{EventId:int}"
 
+@using EventEaseApp.Models
+
 <h1>Event Details</h1>
 
 <p>Event ID: @EventId</p>
 <p>Event Name: @EventName</p>
 <p>Date: @EventDate.ToShortDateString()</p>
 <p>Location: @EventLocation</p>
+<p>Attendees: @Attendees.Count</p>
+
+<ul>
+    @foreach (var attendee in Attendees)
+    {
+        <li>@attendee.Name (@attendee.Email)</li>
+    }
+</ul>
 
 <NavLink href="/" class="btn btn-details">Back to Event List</NavLink>
 
@@ -16,6 +26,10 @@
     private string? EventName { get; set; }
     private DateTime EventDate { get; set; }
     private string? EventLocation { get; set; }
+
+    private List<RegistrationModel> Attendees = new();
+
+    public static List<RegistrationModel> Registrations = new(); // Make this static
 
     protected override void OnParametersSet()
     {
@@ -33,6 +47,9 @@ new Event { Id = 3, Name = "Developer Meetup", Date = new DateTime(2024, 05, 10)
             EventDate = ev.Date;
             EventLocation = ev.Location;
         }
+
+        // Fetch attendees for this event
+        Attendees = Registrations.Where(r => r.EventId == EventId).ToList();
     }
 
     public class Event

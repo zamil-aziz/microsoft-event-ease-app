@@ -1,45 +1,56 @@
-@page "/event-registration/{EventId:int}"
+@page "/register/{EventId:int}"
 
-<h1>Event Registration</h1>
+@using EventEaseApp.Models
 
-<p>Register for Event ID: @EventId</p>
-<p>Event Name: @EventName</p>
-<p>Date: @EventDate.ToShortDateString()</p>
-<p>Location: @EventLocation</p>
+<h1>Register for Event</h1>
 
-<NavLink href="/" class="btn btn-register">Back to Event List</NavLink>
+<EditForm Model="@RegistrationData" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <InputText id="name" @bind-Value="RegistrationData.Name" class="form-control" />
+        <ValidationMessage For="@(() => RegistrationData.Name)" />
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <InputText id="email" @bind-Value="RegistrationData.Email" class="form-control" />
+        <ValidationMessage For="@(() => RegistrationData.Email)" />
+    </div>
+
+    <div class="form-group">
+        <label for="phone">Phone:</label>
+        <InputText id="phone" @bind-Value="RegistrationData.Phone" class="form-control" />
+        <ValidationMessage For="@(() => RegistrationData.Phone)" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+</EditForm>
 
 @code {
     [Parameter]
     public int EventId { get; set; }
 
-    private string? EventName { get; set; }
-    private DateTime EventDate { get; set; }
-    private string? EventLocation { get; set; }
+    private RegistrationModel RegistrationData = new RegistrationModel();
 
-    protected override void OnParametersSet()
+    private void HandleValidSubmit()
     {
-        // Fetch event details based on EventId (mock data for now)
-        var ev = new List<Event>
-{
-new Event { Id = 1, Name = "Tech Conference 2024", Date = new DateTime(2024, 10, 15), Location = "San Francisco, CA" },
-new Event { Id = 2, Name = "Music Festival 2024", Date = new DateTime(2024, 07, 20), Location = "Austin, TX" },
-new Event { Id = 3, Name = "Developer Meetup", Date = new DateTime(2024, 05, 10), Location = "New York, NY" }
-}.FirstOrDefault(e => e.Id == EventId);
+        // Set the EventId for the registration
+        RegistrationData.EventId = EventId;
 
-        if (ev != null)
-        {
-            EventName = ev.Name;
-            EventDate = ev.Date;
-            EventLocation = ev.Location;
-        }
+        // Save registration data (e.g., to a list or database)
+        Console.WriteLine("Registration Successful!");
+        Console.WriteLine($"Event ID: {RegistrationData.EventId}, Name: {RegistrationData.Name}, Email: {RegistrationData.Email}, Phone: {RegistrationData.Phone}");
+
+        // Add the registration to the global list
+        EventDetails.Registrations.Add(RegistrationData);
+
+        // Redirect to the event details page
+        NavigationManager.NavigateTo($"/event-details/{EventId}");
     }
 
-    public class Event
-    {
-        public int Id { get; set; }
-        public string? Name { get; set; }
-        public DateTime Date { get; set; }
-        public string? Location { get; set; }
-    }
+    [Inject]
+    private NavigationManager NavigationManager { get; set; } = null!;
 }

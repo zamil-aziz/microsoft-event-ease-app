@@ -7,7 +7,7 @@
 @foreach (var ev in Events)
 {
     <EventCard EventName="@ev.Name" EventDate="@ev.Date" EventLocation="@ev.Location"
-        DetailsRoute="@($"/event-details/{ev.Id}")" RegisterRoute="@($"/event-registration/{ev.Id}")" />
+        DetailsRoute="@($"/event-details/{ev.Id}")" RegisterRoute="@($"/register/{ev.Id}")" />
 }
 
 @code {

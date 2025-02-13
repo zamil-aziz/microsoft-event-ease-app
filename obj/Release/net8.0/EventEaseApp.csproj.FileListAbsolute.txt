@@ -1029,3 +1029,6 @@ D:\Websites\EventEaseApp\obj\Release\net8.0\compressed\37bv39g36b.gz
 D:\Websites\EventEaseApp\obj\Release\net8.0\compressed\imrzcv7zuj.gz
 D:\Websites\EventEaseApp\obj\Release\net8.0\compressed\4savhfdxvr.gz
 D:\Websites\EventEaseApp\obj\Release\net8.0\compressed\a2wls1to9d.gz
+D:\Websites\EventEaseApp\bin\Release\net8.0\dist\web.config
+D:\Websites\EventEaseApp\bin\Release\net8.0\dist\publish\wwwroot\_framework\blazor.boot.json
+D:\Websites\EventEaseApp\bin\Release\net8.0\dist\wwwroot\_framework\blazor.boot.json

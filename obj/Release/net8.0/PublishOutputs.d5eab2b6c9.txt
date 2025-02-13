@@ -1,3 +1,6 @@
+D:\Websites\EventEaseApp\dist\dist\web.config
 D:\Websites\EventEaseApp\dist\publish\web.config
+D:\Websites\EventEaseApp\dist\dist\publish\wwwroot\_framework\blazor.boot.json
+D:\Websites\EventEaseApp\dist\dist\wwwroot\_framework\blazor.boot.json
 D:\Websites\EventEaseApp\dist\publish\wwwroot\_framework\blazor.boot.json
 D:\Websites\EventEaseApp\dist\web.config

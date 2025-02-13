@@ -1029,3 +1029,6 @@ D:\Websites\EventEaseApp\obj\Debug\net8.0\EventEaseApp.dll
 D:\Websites\EventEaseApp\obj\Debug\net8.0\refint\EventEaseApp.dll
 D:\Websites\EventEaseApp\obj\Debug\net8.0\EventEaseApp.pdb
 D:\Websites\EventEaseApp\obj\Debug\net8.0\ref\EventEaseApp.dll
+D:\Websites\EventEaseApp\bin\Debug\net8.0\dist\web.config
+D:\Websites\EventEaseApp\bin\Debug\net8.0\dist\publish\wwwroot\_framework\blazor.boot.json
+D:\Websites\EventEaseApp\bin\Debug\net8.0\dist\wwwroot\_framework\blazor.boot.json

@@ -406,6 +406,8 @@ D:\Websites\EventEaseApp\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.
 D:\Websites\EventEaseApp\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm.gz
 D:\Websites\EventEaseApp\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm.gz
 D:\Websites\EventEaseApp\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm.gz
+D:\Websites\EventEaseApp\bin\Debug\net8.0\publish\web.config
+D:\Websites\EventEaseApp\bin\Debug\net8.0\publish\wwwroot\_framework\blazor.boot.json
 D:\Websites\EventEaseApp\bin\Debug\net8.0\EventEaseApp.staticwebassets.runtime.json
 D:\Websites\EventEaseApp\bin\Debug\net8.0\EventEaseApp.dll
 D:\Websites\EventEaseApp\bin\Debug\net8.0\EventEaseApp.pdb

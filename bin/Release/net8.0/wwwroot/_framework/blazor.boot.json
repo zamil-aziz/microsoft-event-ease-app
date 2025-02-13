@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "EventEaseApp",
   "resources": {
-    "hash": "sha256-D38HNriUsmepkBWHa827EB/HLVqjeJM8gjBz1y+C4I8=",
+    "hash": "sha256-ZJYKtWZ8sfLPLlMejl/lAwjMBqSD9WgBR3f8A/Y4l3g=",
     "jsModuleNative": {
-      "dotnet.native.8.0.12.pprqoiurbq.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
+      "dotnet.native.8.0.13.alq4dk68k2.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.12.9osjw3wcoh.js": "sha256-aTAnT1r/EAWev8oI/mTFI9nH3RsfA5M822bNiGhok6U="
+      "dotnet.runtime.8.0.13.antszkelre.js": "sha256-13vqU3hueOALvSTEM8xnJkJj2exVJYtNc1KZelMCDf0="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-4X9eav+Ak45oe3jDiM7H2gSxg1ZRzmhn9QfZURenUbE="
+      "dotnet.native.wasm": "sha256-XhsharnkthjahGEiBkFjCLc/87/Tecti9860TIEq0H0="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-QoC5hTKpDNO6efLnEvYwV9OJBXvYRq8/1yGhNZKiNCw=",
       "netstandard.wasm": "sha256-JT2F4bYWJpaSGq+iD0ITLpWxsDhMUjhqje9RpBtTg7w=",
       "System.Private.CoreLib.wasm": "sha256-fvIPBcvgvsRuWrKi2LGQsLYvcKUSnyIuBUsE3LJu/0Y=",
-      "EventEaseApp.wasm": "sha256-xG1d8GR9+VmW05s6XTFak1/7JdPJhe8UZzjXSVAR9Go="
+      "EventEaseApp.wasm": "sha256-m74lzkogBgGcuVhcBLXjLLK4AHg1uUtfkWI0jz3csKo="
     },
     "pdb": {
-      "EventEaseApp.pdb": "sha256-aOmCw93xP+g5+PnB7SjywwoSDV2MVnIlDM77cmuZjhs="
+      "EventEaseApp.pdb": "sha256-nPU2eF8nu/tJ9IYo01RnId5y0noekquyn/WT/5TXdug="
     }
   },
   "cacheBootResources": true,
